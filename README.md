@@ -1,2 +1,2 @@
-# college_feedback_system
-In this project we have made a feedback portal for college. It contains 3 modules namely Admin, Faculty, Student. Admin can login and includes functionality such as view data, add student, remove student, update details of student and faculty if required. Faculty can have features to view there feedback result. Student can give feedback after log in.
+# fac_feedback
+It have 3 modules...1. ADMIN- Add/Delete/View Student and faculty.....2.FACULTY- See their reports like ranking,rating etc and Update their information.....3.STUDENT-Give feedback of their respective faculty and Update their information
